@@ -1,0 +1,19 @@
+body {
+    padding: 0; 
+    width:80%;
+    margin: auto;
+} 
+
+canvas {
+    vertical-align: top;
+}
+
+button.blue {
+    color: #FFF;
+    background-color: #1EAEDB;
+    border-color: #1EAEDB;  
+    font-size:2em;
+    margin-left:12px;
+    border-radius:6px;
+    cursor: pointer;  
+}
